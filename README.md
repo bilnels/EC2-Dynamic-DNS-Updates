@@ -1,4 +1,4 @@
-DNS Server and Dynamic Updates of DNS Records in VPC
+EC2 DNS Server and Dynamic Updates of DNS Records in VPC
 -----------------------------------------------------
 Unfortunately, the Amazon DNS server cannot resolve private DNS hostnames if your VPC's IP address range falls outside of the private IP addresses ranges specified by the RFC.
 
